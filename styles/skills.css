@@ -712,10 +712,10 @@ section
 }
 .p_bar_title
 {
-	font-size: 13px;
+	font-size: 16px;
 	color: #100f3a;
 	font-weight: 500;
-	line-height: 0.75;
+	line-height: 1.25;
 	margin-bottom: 17px;
 }
 .progressbar-text
